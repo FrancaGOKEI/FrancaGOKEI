@@ -6,7 +6,7 @@ Hello! My name is **Vinicius Azeredo França**, and I am **19 years old**. Curre
 
 ## 📖 About Me
 
-- **Age**: 19 years old
+- **Age**: 20 years old
 - **Job**: Junior PHP Developer
 - **Company**: GOKEI Technologies
 - **Main Git Repository**: [FrancaCODEX](https://github.com/FrancaCODEX) 
